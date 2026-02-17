@@ -6,3 +6,4 @@ while wait() do
         game:GetService('ReplicatedStorage').PrestigeGUI:FireServer()
     end
 end
+
